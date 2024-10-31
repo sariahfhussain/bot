@@ -1,0 +1,11 @@
+langchain
+langchain_huggingface
+langchain_chroma
+langchain_groq
+python-dotenv
+sounddevice
+numpy
+vosk
+pyttsx3
+pdfplumber
+groq
